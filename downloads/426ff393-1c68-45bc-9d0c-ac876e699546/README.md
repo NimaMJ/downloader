@@ -9,7 +9,7 @@
 | **Original File** | `426ff393-1c68-45bc-9d0c-ac876e699546` |
 | **Size** | 75 MB |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
